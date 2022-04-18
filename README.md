@@ -1,5 +1,5 @@
 <h1 align="center">YO 😃 , IT'S FORHAD H. BABU</h1>
-<h3 align="center">Successful Software Developer, Now Leading His Life as an Entrepreneur. Ultimately He Wanna be a Dynamic Speaker & Philanthropist. He Loves Expression.</h3>
+<h3 align="center">Successful Software Developer, Now Leading His Life as an Entrepreneur. Ultimately He Wanna be a Dynamic Speaker & Philanthropist. He Likes Anything Awkward & Imperfect Because It's Natural and Real. So He Loves Expression. Finally, He is a Great Believer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadhossenbabu&label=Profile%20views&color=0e75b6&style=flat" alt="forhadhossenbabu" /> </p>
 
