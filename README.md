@@ -1,4 +1,4 @@
-<h1 align="center">Yo 😃 , It's Forhad H. Babu</h1>
+<h1 align="center">YO 😃 , IT'S FORHAD H. BABU</h1>
 <h3 align="center">Successful Software Developer, Now Leading His Life as an Entrepreneur. Ultimately He Wanna be a Dynamic Speaker & Philanthropist. He Loves Expression.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadhossenbabu&label=Profile%20views&color=0e75b6&style=flat" alt="forhadhossenbabu" /> </p>
@@ -33,11 +33,11 @@
 <a href="https://dev.to/forhadhossenbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="forhadhossenbabu" height="30" width="40" /></a>
 <a href="https://twitter.com/officialfhb_tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialfhb_tw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/forhadhbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="forhadhbabu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/15746500/forhad-h-babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15746500/forhad-h-babu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15746500/forhad-h-babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15746500/forhad-h-babu" height="30" width="40" /></a>
 <a href="https://fb.com/officialfhb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialfhb" height="30" width="40" /></a>
 <a href="https://instagram.com/officialfhb.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialfhb.ig" height="30" width="40" /></a>
 <a href="https://medium.com/@forhadhossenbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@forhadhossenbabu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxphowc8uxmetd7gxdre-pw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxphowc8uxmetd7gxdre-pw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCxPHowc8uXMETD7GxdRe-pw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucxphowc8uxmetd7gxdre-pw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
