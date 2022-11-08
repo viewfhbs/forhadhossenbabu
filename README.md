@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/officialfhb_tw" target="blank"><img src="https://img.shields.io/twitter/follow/officialfhb_tw?logo=twitter&style=for-the-badge" alt="officialfhb_tw" /></a> </p>
 
-- 🔭 He is currently working on [FHB Official Website](https://forhadhossenbabu.com/)
+<!-- - 🔭 He is currently working on [FHB Official Website](https://forhadhossenbabu.com/)
 
 - 🌱 Currently he is learning **NEXT.JS - GRAPHQL - RUST - DEVOPS**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about his experiences [https://forhadhossenbabu.github.io/](https://forhadhossenbabu.github.io/)
 
-- ⚡ Fun fact **Terminated Programming @ Middle of 2022**
+- ⚡ Fun fact **Terminated Programming @ Middle of 2022** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
